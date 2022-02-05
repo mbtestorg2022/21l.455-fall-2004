@@ -9,60 +9,485 @@ Some Pointers for Writing Papers in Literature Courses ([PDF]({{< baseurl >}}/re
 Selective Chronology of Events
 ------------------------------
 
-| {{< td-colspan 2 >}}**Foundations**{{< /td-colspan >}} ||
-| 753 BCE | _Urbs Condita_. Rome founded by Romulus (Quirinus) under the rule of kings. |
-| 507 | _Res Publica_. Roman Republic proclaimed: rule of kings overthrown. |
-| {{< td-colspan 2 >}}**Expansion**{{< /td-colspan >}} ||
-| 264-241 | First Punic War. Doors of the Temple of Janus are opened. |
-| 218-201 | Second Punic War. First Macedonian War (215-205). |
-| 200-197 | Second Macedonian War. |
-| 172-168 | Third Macedonian War. |
-| 149-146 | Third Punic War. Destruction of Carthage. Roman Provinces established: Sicily, Sardinia, Corsica, Spain (Lusitania and Tarraconensis), France (Transalpine Gaul), Libya (Africa), and Greece (Macedonia). |
-| 133 | Tiberius Gracchus, political reformer, murdered at instigation of the Senate. Asia Minor becomes a Roman province. |
-| 121 | Gaius Gracchus, tribune and political reformer, murdered in a riot. |
-| 106 | _Birth of Marcus Tullius Cicero._ |
-| 105 | Marius, the uncle of Julius Caesar, and Sulla together defeat Jugurtha, king of Numidia, in North Africa. |
-| 88-84 | First War with Mithridates. |
-| 83 | Civil War between Marius and Sulla; Marius defeated. |
-| 83-79 | Sulla appointed dictator. Second War with Mithridates (83-81). |
-| 74-64 | Third War with Mithridates. |
-| {{< td-colspan 2 >}}**Late Republic**{{< /td-colspan >}} ||
-| 71 | Slave revolt led by Spartacus suppressed by the consuls Pompey the Great and Crassus. |
-| 70 | _Birth of Publius Vergilius Maro (Virgil) near Mantua_. Birth of Maecenas. |
-| 66 | Consulship of Cicero; Conspiracy of Catiline suppressed. |
-| 65 | _Birth of Quintus Horatius Flaccus (Horace) at Venusia in Apulia._ |
-| 64 | Pompey the Great defeats Mithridates and consolidates Asia Minor under Roman rule. |
-| 63 | _Birth of Octavian (Augustus)_. Pompey completes the Conquest of Palestine. |
-| 60 | Formation of the First Triumvirate: Crassus, Pompey, Julius Caesar (60-53). |
-| 59 | Julius Caesar conquers Gaul. _Birth of Titus Livius (Livy) in Padua._ |
-| 54 | Julius Caesar invades Britain. |
-| 50 | _Birth of Propertius. Birth of Tibullus._ |
-| 49 | Civil War between Pompey and Julius Caesar (49-48). |
-| 48 | Battle of Pharsalus (Pompey defeated, later murdered in Egypt by order of Cleopatra). |
-| 46 | Cicero composes the _Brutus_. |
-| 45 | Julius Caesar appointed dictator. He adopts his nephew Octavian as his heir. |
-| 44 | Julius Caesar assassinated. Cicero delivers _The Philippics_ against Mark Antony. |
-| 43 | Formation of the Second Triumvirate: Octavian, Mark Antony, Lepidus (43-32 BCE).  {{< br >}}  {{< br >}}_Cicero executed. Birth of Publius Ovidius Naso (Ovid) at Sulmo._ |
-| 42 | Battle of Philippi (Brutus and Cassius defeated). |
-| 37 | Virgil publishes _Eclogues_. |
-| 33 | Horace receives a Sabine farm from Maecenas. |
-| 31 | Battle of Actium (Mark Antony and Cleopatra defeated). Horace publishes his first book of _Satires_. |
-| 29 | Livy begins composing _The Early History of Rome_ (29-24). Virgil publishes the _Georgics_. The doors of the Temple of Janus are officially shut. |
-| {{< td-colspan 2 >}}**Imperial Rome**{{< /td-colspan >}} ||
-| 27 | Octavian renamed Augustus. "_Res Publica restituta_." Augustus awarded the _clupeus virtutis_. |
-| 23 | Horace publishes his first three books of _Odes_. |
-| 19 | _Death of Virgil_; _Aeneid_ published posthumously. |
-| 18 | Augustus establishes strict marriage legislation with the _Lex Julia de maritandis ordinibus_. |
-| 17 | Secular games held. |
-| 13 | Horace publishes his fourth book of _Odes_. |
-| 12 | Augustus becomes pontifex maximus. |
-| 12-9 | Military campaign in Germany under Drusus and Tiberius, Augustus' stepsons. |
-| 9 | Ara pacis Augustae dedicated. |
-| 8 | _Death of Horace_. Death of Maecenas. |
-| 1 | Ovid publishes his _Ars amatoria_. |
-| 8 CE | Ovid publishes his _Metamorphoses_. Ovid banished to Tomis on the black sea. |
-| 14 | _Death of Augustus._ |
-| 17 | _Death of Livy. Death of Ovid._ 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Foundations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+753 BCE
+{{< tdclose >}}
+{{< tdopen >}}
+_Urbs Condita_. Rome founded by Romulus (Quirinus) under the rule of kings.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+507
+{{< tdclose >}}
+{{< tdopen >}}
+_Res Publica_. Roman Republic proclaimed: rule of kings overthrown.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Expansion**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+264-241
+{{< tdclose >}}
+{{< tdopen >}}
+First Punic War. Doors of the Temple of Janus are opened.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+218-201
+{{< tdclose >}}
+{{< tdopen >}}
+Second Punic War. First Macedonian War (215-205).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+200-197
+{{< tdclose >}}
+{{< tdopen >}}
+Second Macedonian War.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+172-168
+{{< tdclose >}}
+{{< tdopen >}}
+Third Macedonian War.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+149-146
+{{< tdclose >}}
+{{< tdopen >}}
+Third Punic War. Destruction of Carthage. Roman Provinces established: Sicily, Sardinia, Corsica, Spain (Lusitania and Tarraconensis), France (Transalpine Gaul), Libya (Africa), and Greece (Macedonia).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+133
+{{< tdclose >}}
+{{< tdopen >}}
+Tiberius Gracchus, political reformer, murdered at instigation of the Senate. Asia Minor becomes a Roman province.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+121
+{{< tdclose >}}
+{{< tdopen >}}
+Gaius Gracchus, tribune and political reformer, murdered in a riot.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+106
+{{< tdclose >}}
+{{< tdopen >}}
+_Birth of Marcus Tullius Cicero._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+105
+{{< tdclose >}}
+{{< tdopen >}}
+Marius, the uncle of Julius Caesar, and Sulla together defeat Jugurtha, king of Numidia, in North Africa.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+88-84
+{{< tdclose >}}
+{{< tdopen >}}
+First War with Mithridates.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+83
+{{< tdclose >}}
+{{< tdopen >}}
+Civil War between Marius and Sulla; Marius defeated.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+83-79
+{{< tdclose >}}
+{{< tdopen >}}
+Sulla appointed dictator. Second War with Mithridates (83-81).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+74-64
+{{< tdclose >}}
+{{< tdopen >}}
+Third War with Mithridates.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Late Republic**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+71
+{{< tdclose >}}
+{{< tdopen >}}
+Slave revolt led by Spartacus suppressed by the consuls Pompey the Great and Crassus.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+70
+{{< tdclose >}}
+{{< tdopen >}}
+_Birth of Publius Vergilius Maro (Virgil) near Mantua_. Birth of Maecenas.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+66
+{{< tdclose >}}
+{{< tdopen >}}
+Consulship of Cicero; Conspiracy of Catiline suppressed.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+65
+{{< tdclose >}}
+{{< tdopen >}}
+_Birth of Quintus Horatius Flaccus (Horace) at Venusia in Apulia._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+64
+{{< tdclose >}}
+{{< tdopen >}}
+Pompey the Great defeats Mithridates and consolidates Asia Minor under Roman rule.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+63
+{{< tdclose >}}
+{{< tdopen >}}
+_Birth of Octavian (Augustus)_. Pompey completes the Conquest of Palestine.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+60
+{{< tdclose >}}
+{{< tdopen >}}
+Formation of the First Triumvirate: Crassus, Pompey, Julius Caesar (60-53).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+59
+{{< tdclose >}}
+{{< tdopen >}}
+Julius Caesar conquers Gaul. _Birth of Titus Livius (Livy) in Padua._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+54
+{{< tdclose >}}
+{{< tdopen >}}
+Julius Caesar invades Britain.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+_Birth of Propertius. Birth of Tibullus._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+Civil War between Pompey and Julius Caesar (49-48).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Battle of Pharsalus (Pompey defeated, later murdered in Egypt by order of Cleopatra).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Cicero composes the _Brutus_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Julius Caesar appointed dictator. He adopts his nephew Octavian as his heir.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Julius Caesar assassinated. Cicero delivers _The Philippics_ against Mark Antony.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Formation of the Second Triumvirate: Octavian, Mark Antony, Lepidus (43-32 BCE).  
+  
+_Cicero executed. Birth of Publius Ovidius Naso (Ovid) at Sulmo._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Battle of Philippi (Brutus and Cassius defeated).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Virgil publishes _Eclogues_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Horace receives a Sabine farm from Maecenas.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Battle of Actium (Mark Antony and Cleopatra defeated). Horace publishes his first book of _Satires_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Livy begins composing _The Early History of Rome_ (29-24). Virgil publishes the _Georgics_. The doors of the Temple of Janus are officially shut.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Imperial Rome**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Octavian renamed Augustus. "_Res Publica restituta_." Augustus awarded the _clupeus virtutis_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Horace publishes his first three books of _Odes_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Death of Virgil_; _Aeneid_ published posthumously.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Augustus establishes strict marriage legislation with the _Lex Julia de maritandis ordinibus_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Secular games held.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Horace publishes his fourth book of _Odes_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Augustus becomes pontifex maximus.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-9
+{{< tdclose >}}
+{{< tdopen >}}
+Military campaign in Germany under Drusus and Tiberius, Augustus' stepsons.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ara pacis Augustae dedicated.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Death of Horace_. Death of Maecenas.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ovid publishes his _Ars amatoria_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8 CE
+{{< tdclose >}}
+{{< tdopen >}}
+Ovid publishes his _Metamorphoses_. Ovid banished to Tomis on the black sea.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Death of Augustus._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Death of Livy. Death of Ovid._
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Roman Officials and their Duties
 --------------------------------
